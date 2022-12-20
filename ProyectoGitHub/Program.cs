@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
 
-            Console.WriteLine("EL PRESI HAY COMO ME DUELE EL CORAZON POR EL PRESI AYAYAYAYAYAYA");
+            Console.WriteLine("EL PRESI HAY COMO ME DUELE EL CORAZON POR EL PRESI AYAYAYAYAYAYAYAYAAYYAYAYA");
         }
     }
 }
